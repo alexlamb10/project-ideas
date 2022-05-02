@@ -1,0 +1,15 @@
+IDEAS FOR CAPSTONE PROJECT
+
+1. Online Yard Sale
+    - It will be similar to Facebook market place or the KSL Classifieds
+    - Each user has the ability to post items they would like to sell
+    - They can also look at items available to buy, also are able to filter by item type which will be given by the application.
+
+2. Social Media platform
+    - Simplified version of Facebook
+
+3. E-commerce Site
+    - A site for purchasing sports/exercise items
+
+4. Scheduler
+    - A site where consumers are able to schedule an appointement with a person/company depending on availability.
